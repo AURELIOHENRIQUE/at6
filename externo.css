@@ -35,9 +35,9 @@ img{
     float: left; 
     width: 130px;
     height: 700px;
-    position:fixed;
+    position: relative;;
     margin-top: 0px;
-    bottom: 53px;
+    bottom: 17px;
 }
 
 .aviso{
