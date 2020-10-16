@@ -34,10 +34,10 @@ p {
 img{
     float: left; 
     width: 130px;
-    height: 750px;
+    height: 700px;
     position:fixed;
     margin-top: 0px;
-    bottom: 190px;
+    bottom: 53px;
 }
 
 .aviso{
